@@ -1,0 +1,52 @@
+.ag-fresh{
+color:#003f59 !important;
+}
+.ag-fresh .ag-header{
+	color: #003f59 !important;
+	background: #BADEFB !important;
+	background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #BADEFB), color-stop(1, #ffffff)) !important;
+	background: -ms-linear-gradient(bottom, #BADEFB, #ffffff) !important;
+	background: -moz-linear-gradient(center bottom, #BADEFB 0%, #ffffff 100%) !important;
+	background: -o-linear-gradient(#ffffff, #BADEFB) !important;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#BADEFB', GradientType=0) !important;
+  -webkit-border-top-right-radius: -1px !important;
+  -webkit-border-bottom-right-radius: 0 !important;
+  -webkit-border-bottom-left-radius: 0 !important;
+  -webkit-border-top-left-radius: -1px !important;
+  -moz-border-radius-topright: -1px !important;
+  -moz-border-radius-bottomright: 0 !important;
+  -moz-border-radius-bottomleft: 0 !important;
+  -moz-border-radius-topleft: -1px !important;
+  border-top-right-radius: -1px !important;
+  border-bottom-right-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+  border-top-left-radius: -1px !important;
+  -moz-background-clip: padding-box !important;
+  -webkit-background-clip: padding-box !important;
+  background-clip: padding-box !important;
+    border-bottom: 1px solid #CDE3F5 !important;
+  font-weight: bold !important;
+}
+
+.ag-fresh .ag-root{
+border: 1px solid #CDE3F5 !important;
+}
+.ag-fresh .ag-header-cell {
+    border-right:  1px solid #CDE3F5 !important;
+}
+.ag-fresh .ag-cell-no-focus {
+    border-right: 1px solid #CDE3F5 !important;
+    border-top: 1px solid transparent;
+    border-left: 1px solid transparent;
+    border-bottom: 1px solid transparent;
+}
+.ag-fresh .ag-row-odd {
+    background-color: #F1F8FE !important;
+}
+
+.ag-fresh .ag-body {
+    background-color: #ffffff !important;
+}
+.ag-overlay-no-rows-center{
+display:none !important
+}
